@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSA Secure Messaging</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
